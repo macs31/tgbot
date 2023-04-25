@@ -1,0 +1,43 @@
+.bottom-left {
+    font-size: 250px;
+    color: white;
+    opacity: .7;
+    position: absolute;
+    bottom: 7px;
+    left: 16px;
+}
+
+.bottom-left1 {
+    font-size: 40px;
+    color: white;
+    opacity: .7;
+    position: absolute;
+    bottom: 7px;
+    left: 35px;
+    }
+
+h2  {
+    position: relative;
+    font-size: 70px;
+    }
+
+.BMW{
+    position: relative;
+    top: 20px;
+    left: 150px;
+    text-align: center;
+    }
+
+.BMW1{
+    position: relative;
+    top: 20px;
+    left: 250px;
+    text-align: center;
+    }
+
+.BMW2{
+    position: relative;
+    top: 20px;
+    left: 350px;
+    text-align: center;
+    }
